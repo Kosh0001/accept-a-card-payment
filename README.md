@@ -135,3 +135,5 @@ A: We are always looking for new sample ideas, please email dev-samples@stripe.c
 [@bg-stripe](https://github.com/bg-stripe)
 [@yuki-stripe](https://github.com/yuki-stripe)
 [@thorsten-stripe](https://twitter.com/thorwebdev)
+
+[![Run on Repl.it](https://repl.it/badge/github/stripe-samples/accept-a-card-payment)](https://repl.it/github/stripe-samples/accept-a-card-payment)
